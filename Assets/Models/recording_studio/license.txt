@@ -1,0 +1,11 @@
+Model Information:
+* title:	Recording Studio
+* source:	https://sketchfab.com/3d-models/recording-studio-3304add0c13f416597dd393a76867f96
+* author:	Noah Lupowitz (https://sketchfab.com/noahlupowitz)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Recording Studio" (https://sketchfab.com/3d-models/recording-studio-3304add0c13f416597dd393a76867f96) by Noah Lupowitz (https://sketchfab.com/noahlupowitz) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

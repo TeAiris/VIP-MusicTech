@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: e1b88a880b148c544bf053d74f05a44c
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 33903
+  packageName: FlowCanvas
+  packageVersion: 3.4.2f
+  assetPath: Assets/ParadoxNotion/FlowCanvas/_DeprecatedFiles/Legacy_FlipFlop.cs
+  uploadId: 988234

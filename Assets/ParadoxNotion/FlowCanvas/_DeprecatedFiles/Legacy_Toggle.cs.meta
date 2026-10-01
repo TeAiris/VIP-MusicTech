@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: fcc47782c7127d242a49064a77d0579d
+timeCreated: 1427178988
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 33903
+  packageName: FlowCanvas
+  packageVersion: 3.4.2f
+  assetPath: Assets/ParadoxNotion/FlowCanvas/_DeprecatedFiles/Legacy_Toggle.cs
+  uploadId: 988234

@@ -1,0 +1,11 @@
+Model Information:
+* title:	8-channel Audio Mixer
+* source:	https://sketchfab.com/3d-models/8-channel-audio-mixer-e28440b16df348dbaffbc7f20d7cb8bf
+* author:	nofnol (https://sketchfab.com/nofnol)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "8-channel Audio Mixer" (https://sketchfab.com/3d-models/8-channel-audio-mixer-e28440b16df348dbaffbc7f20d7cb8bf) by nofnol (https://sketchfab.com/nofnol) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
