@@ -1,0 +1,5 @@
+{
+  "name": "VIP.MusicTech.Audio",
+  "rootNamespace": "VIP.MusicTech.Audio",
+  "references": ["UnityEngine.UI"]
+}

@@ -1,0 +1,5 @@
+{
+  "name": "VIP.MusicTech.Audio.Editor",
+  "references": ["VIP.MusicTech.Audio"],
+  "includePlatforms": ["Editor"]
+}

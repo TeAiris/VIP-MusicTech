@@ -1,0 +1,47 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: be9413755263480da3d7eb550d10fbdb, type: 3}
+  m_Name: MultitrackTest
+  m_EditorClassIdentifier: VIP.MusicTech.Audio::VIP.MusicTech.Audio.MultitrackSession
+  SessionName: New Session
+  BeatsPerMinute: 79
+  Tracks:
+  - TrackName: Melody
+    Clip: {fileID: 8300000, guid: 0bb902f814477fa459de3ca671277fa8, type: 3}
+    StartSeconds: 0
+    Volume: 1
+    Pan: 0
+    Muted: 0
+    Solo: 0
+    Color: {r: 1, g: 0, b: 0, a: 0}
+    SourcePrefab: {fileID: 0}
+    OutputGroup: {fileID: 0}
+  - TrackName: Other
+    Clip: {fileID: 8300000, guid: 324dbc18e84f3ba45b861e13f0048805, type: 3}
+    StartSeconds: 0
+    Volume: 1
+    Pan: 0
+    Muted: 0
+    Solo: 0
+    Color: {r: 0.1503659, g: 0.8490566, b: 0, a: 0}
+    SourcePrefab: {fileID: 0}
+    OutputGroup: {fileID: 0}
+  - TrackName: Drums
+    Clip: {fileID: 8300000, guid: eb19bd9da08ed0c45ac723808ec7cbc4, type: 3}
+    StartSeconds: 0
+    Volume: 1
+    Pan: 0
+    Muted: 0
+    Solo: 0
+    Color: {r: 0, g: 1, b: 1, a: 1}
+    SourcePrefab: {fileID: 0}
+    OutputGroup: {fileID: 0}

@@ -1,0 +1,6 @@
+{
+  "name": "VIP.MusicTech.Audio.Tests",
+  "references": ["VIP.MusicTech.Audio"],
+  "optionalUnityReferences": ["TestAssemblies"],
+  "defineConstraints": ["UNITY_INCLUDE_TESTS"]
+}
