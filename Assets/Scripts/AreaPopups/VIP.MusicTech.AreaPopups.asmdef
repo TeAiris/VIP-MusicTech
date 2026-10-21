@@ -1,0 +1,17 @@
+{
+  "name": "VIP.MusicTech.AreaPopups",
+  "rootNamespace": "VIP.MusicTech.AreaPopups",
+  "references": [
+    "UnityEngine.UI",
+    "Unity.InputSystem"
+  ],
+  "includePlatforms": [],
+  "excludePlatforms": [],
+  "allowUnsafeCode": false,
+  "overrideReferences": false,
+  "precompiledReferences": [],
+  "autoReferenced": true,
+  "defineConstraints": [],
+  "versionDefines": [],
+  "noEngineReferences": false
+}
