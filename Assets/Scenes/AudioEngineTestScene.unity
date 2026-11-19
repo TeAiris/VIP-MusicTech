@@ -447,8 +447,8 @@ MonoBehaviour:
   Width: 801
   Height: 128
   RefreshRate: 20
-  LiveGain: 1
-  LiveWindowSeconds: 5
+  LiveGain: 6.67
+  LiveWindowSeconds: 4
   ScrollDirection: 0
   Foreground: {r: 0, g: 1, b: 1, a: 1}
   Background: {r: 0, g: 0, b: 0, a: 0}
@@ -653,8 +653,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 146.60184, y: -124}
-  m_SizeDelta: {x: 393.2036, y: 100}
+  m_AnchoredPosition: {x: -42.29117, y: -124}
+  m_SizeDelta: {x: 15.4176, y: 100}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1377940991
 MonoBehaviour:
